@@ -12,4 +12,17 @@ button{
 }
 .row{
     padding-left: 100px;
+    margin: 10px;
+}
+.img1{
+    padding-left: 50px;
+}
+.img2{
+    padding-left: 50px;
+}
+.img3{
+    padding-left: 50px;
+}
+h5{
+    padding-left: 90px;
 }
