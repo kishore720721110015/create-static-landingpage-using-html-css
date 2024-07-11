@@ -1,8 +1,15 @@
-.d-block {
-    width:30%;
-    height: 10%;
+.d {
+    width:100%;
+    min-height: 0;
 }
 .header{
     background-color: black;
     color: white;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.row{
+    padding-left: 100px;
 }
